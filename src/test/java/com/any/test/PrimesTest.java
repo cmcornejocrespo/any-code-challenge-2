@@ -1,4 +1,4 @@
-package com.ocado.test;
+package com.any.test;
 
 import org.junit.Test;
 

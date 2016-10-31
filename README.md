@@ -1,4 +1,4 @@
-# ocado
+# programming kata
 
-Ocado codility test.
+Programming kata test.
 Check explainatory images in tasks folder
